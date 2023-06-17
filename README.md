@@ -10,7 +10,9 @@ I like making smol random projects.
 * ✉️  You can contact me at [ozoneblacklight@outlook.com](mailto:ozoneblacklight@outlook.com)
 * 🚀  I'm currently working on [Kobeni](http://kobeni-nuxt.vercel.app/)
 * 🧠  I'm learning Nuxt 3
-* ⚡  Strong background in eCommerce (Payment Gateways, etc.)
+* ⚡  I have extensive background in eCommerce (Payment Gateways, etc.)
+* 🤖  I know how to make [Slack}(https://slack.com/) bots using Javascript in Node.js
+* ⏲  I can make cron jobs also via Javascript in Node.js
 
 ### Skills
 

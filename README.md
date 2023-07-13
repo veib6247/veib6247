@@ -13,7 +13,7 @@ I like making smol random projects.
 * 🛒  Extensive background in ecommerce technologies (Payment Gateways, 3-D Secure, etc.)
 * 🤖  Know how to make [Slack](https://slack.com/) bots using Javascript in Node.js
 * ⏲  Can make cron jobs also via Javascript in Node.js
-* ⚡  Web scrape data using [Puppeteer](https://pptr.dev/)
+* ⚡  Web scraping using [Puppeteer](https://pptr.dev/)
 
 ### Skills
 

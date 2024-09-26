@@ -8,7 +8,7 @@ I like making smol random projects.
 
 * 🌍  I'm based in The Philippines
 * ✉️  You can contact me at [ozoneblacklight@outlook.com](mailto:ozoneblacklight@outlook.com)
-* 🧠  Learning Nuxt 3
+* 🧠  Learning Golang!
 * 🛒  Extensive background in ecommerce technologies (Payment Gateways, 3-D Secure, etc.)
 * 🤖  Knowledgeable in [Slack](https://slack.com/) APIs and bots
 * ⚡  Web scraping w/ [Puppeteer](https://pptr.dev/)

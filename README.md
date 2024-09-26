@@ -8,12 +8,10 @@ I like making smol random projects.
 
 * 🌍  I'm based in The Philippines
 * ✉️  You can contact me at [ozoneblacklight@outlook.com](mailto:ozoneblacklight@outlook.com)
-* 🚀  Currently working on [Kobeni](http://kobeni-nuxt.vercel.app/)
 * 🧠  Learning Nuxt 3
 * 🛒  Extensive background in ecommerce technologies (Payment Gateways, 3-D Secure, etc.)
-* 🤖  Know how to make [Slack](https://slack.com/) bots using Javascript in Node.js
-* ⏲  Can make cron jobs also via Javascript in Node.js
-* ⚡  Web scraping using [Puppeteer](https://pptr.dev/)
+* 🤖  Knowledgeable in [Slack](https://slack.com/) APIs and bots
+* ⚡  Web scraping w/ [Puppeteer](https://pptr.dev/)
 
 ### Skills
 

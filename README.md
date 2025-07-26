@@ -11,7 +11,7 @@ I like making smol random projects.
 * 🧠  Learning Golang!
 * 🛒  Extensive background in ecommerce technologies (Payment Gateways, 3-D Secure, etc.)
 * 🤖  Knowledgeable in [Slack](https://slack.com/) APIs and bots
-* ⚡  Web scraping w/ [Puppeteer](https://pptr.dev/)
+* ⚡  Web scraping w/ [Puppeteer](https://pptr.dev/), [Selenium](https://www.selenium.dev/), & [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
 ### Skills
 

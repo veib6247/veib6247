@@ -1,40 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Bryan
-=============================================================================================================================
+# Hi, I'm Bry.
 
-Hobby dev, weeb.
-----------------
+**Senior Technology Lead · Pasig City, Philippines**
 
-I like making smol random projects.
+I translate product and operational needs into technical direction and lead delivery across fintech platforms, payment systems, internal tools, and artificial intelligence (AI) products.
 
-* 🌍  I'm based in The Philippines
-* ✉️  You can contact me at [ozoneblacklight@outlook.com](mailto:ozoneblacklight@outlook.com)
-* 🧠  Learning Golang!
-* 🛒  Extensive background in ecommerce technologies (Payment Gateways, 3-D Secure, etc.)
-* 🤖  Knowledgeable in [Slack](https://slack.com/) APIs and bots
-* ⚡  Web scraping w/ [Puppeteer](https://pptr.dev/), [Selenium](https://www.selenium.dev/), & [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+At Payreto, I work across product discovery, architecture, and engineering delivery. My background in payment operations keeps me close to the practical side: how systems integrate, how they fail, and what teams need to keep them running.
 
-### Skills
+[Portfolio & selected work](https://www.bryisdoinghisbest.com/) · [Resume](https://www.bryisdoinghisbest.com/Bryan-Olandres-Resume.pdf) · [Get in touch](mailto:bryan.olandres.6247@gmail.com)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## Broad enough to lead. Close enough to review.
+
+- **Technical direction:** system design, integration choices, security practices, and vendor evaluation.
+- **Delivery & people:** Scrum, prioritization, stakeholder alignment, code review, and developer mentorship.
+- **Payments & operations:** payment gateways, transaction workflows, integration testing, and production troubleshooting.
+- **AI product work:** feasibility assessments, voice and chatbot architecture, open-source evaluation, and governance.
+
+## Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, TypeScript, Go |
+| Backend | FastAPI, Flask, Django, Hono |
+| Frontend | Vue.js, Nuxt.js |
+| Data | PostgreSQL, MySQL, Drizzle ORM (object-relational mapping) |
+| Operations | DigitalOcean, test automation, continuous integration and delivery |
+
+## The less formal side
+
+I still like making small, random projects: bots, automation, web tools, and whatever has my attention next. This is where that side of the work lives.
+
+For my professional experience and selected initiatives, head to [bryisdoinghisbest.com](https://www.bryisdoinghisbest.com/#work). For the experiments, browse the repositories below.
+
+*Doing my best. Shipping what I learn.*
